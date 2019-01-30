@@ -124,4 +124,5 @@ function findValuePosition(values) {
   return indices[Object.keys(indices)[0]];
 };
 
+export { Slot };
 export default SlotMachine;
